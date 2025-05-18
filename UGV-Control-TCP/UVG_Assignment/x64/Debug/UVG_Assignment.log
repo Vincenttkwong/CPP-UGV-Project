@@ -1,0 +1,13 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  Controller.cpp
+  Display.cpp
+  GNSS.cpp
+  Laser.cpp
+  Main.cpp
+  TMM.cpp
+  VC.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...
+  Controller.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+ControllerInterface_x64_Debug.lib(controllerInterface.obj) : warning LNK4099: PDB '' was not found with 'ControllerInterface_x64_Debug.lib(controllerInterface.obj)' or at ''; linking object as if no debug info
+  UVG_Assignment.vcxproj -> C:\Users\vince\OneDrive - UNSW\2025\Software Projects\CPP-UGV-TCP-Project\UGV-Control\executables\UVG_Assignment_z5312783.exe
